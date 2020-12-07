@@ -1,0 +1,34 @@
+{
+  "name": "aws-cognito-ops",
+  "version": "0.0.0",
+  "description": "Authentication Operations via AWS Cognito and ExpressJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "amazon-cognito-identity-js": "^4.5.5",
+    "axios": "^0.21.0",
+    "qs": "^6.9.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lubu12/mongodb-ops.git"
+  },
+  "keywords": [
+    "aws congnito"
+  ],
+  "author": "Andrew Y",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lubu12/aws-cognito-ops/issues"
+  },
+  "homepage": "https://github.com/lubu12/aws-cognito-ops#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.9.0"
+  }
+}
