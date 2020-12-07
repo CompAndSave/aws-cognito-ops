@@ -19,3 +19,8 @@ Cognito.poolData = {
   ClientId: process.env.AWS_COGNITO_NODE_APP_CLIENT_ID
 };
 ```
+
+**References:**
+* https://medium.com/@janitha000/authentication-using-amazon-cognito-and-nodejs-c4485679eed8
+* https://docs.aws.amazon.com/cognito/latest/developerguide/amazon-cognito-user-pools-using-tokens-with-identity-providers.html
+* https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-user-pools-app-integration.html
