@@ -4,7 +4,7 @@
 * Refresh session by refresh token
 * Add tokens to cookie
 
-**Initiatization is required when app starts. Example is as follows.**
+**Initiatization is required when app starts. Here is an example.**
 
 ```
 Cognito.authDomain = process.env.AWS_COGNITO_OAUTH_DOMAIN;
