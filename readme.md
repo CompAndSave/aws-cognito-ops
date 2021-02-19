@@ -1,4 +1,4 @@
-# Authentication opertions via AWS Cognito and ExpressJS
+# Authentication operations via AWS Cognito and ExpressJS
 ## Features:
 * Authorization Code Grant and Implicant Grant via AWS Host UI
 * Get access and/or refresh tokens via API
@@ -26,7 +26,7 @@ Cognito.poolData = {
 };
 ```
 
-## Examples:
+**Examples:**
 ```
 // Get access / refresh token via API
 //
