@@ -6,11 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "amazon-cognito-identity-js": "^4.5.8",
-    "axios": "^0.21.1",
-    "qs": "^6.9.6"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CompAndSave/aws-cognito-ops.git"
@@ -19,7 +14,7 @@
     "aws congnito"
   ],
   "author": "Andrew Y",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/CompAndSave/aws-cognito-ops/issues"
   },
@@ -27,8 +22,13 @@
   "directories": {
     "lib": "lib"
   },
+  "dependencies": {
+    "amazon-cognito-identity-js": "^4.5.11",
+    "axios": "^0.21.1",
+    "qs": "^6.9.6"
+  },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
-    "eslint": "^7.19.0"
+    "eslint": "^7.20.0"
   }
 }
