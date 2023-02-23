@@ -1,6 +1,6 @@
 {
   "name": "aws-cognito-ops",
-  "version": "0.3.10",
+  "version": "0.3.11",
   "description": "Authentication Operations via AWS Cognito and ExpressJS",
   "main": "index.js",
   "scripts": {
